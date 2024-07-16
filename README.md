@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/frontend-mentor-testimonials-grid-section-max-lAwfGb)
 - Live Site URL: [https://fem-testimonials-grid-challenge.netlify.app](https://fem-testimonials-grid-challenge.netlify.app)
 
 ## My process
